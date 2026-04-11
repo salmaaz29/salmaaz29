@@ -1,4 +1,4 @@
-# Salma 👋
+# Azhich Salma 👋
 
 **Intelligent Systems & Software Engineering Student**
 
