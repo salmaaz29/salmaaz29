@@ -1,20 +1,17 @@
-# Hello, I'm Salma  👋
+# Salma 👋
 
-**About Me**
-🚀 Hi ! Je suis Salma, étudiante en Logiciels et Systèmes Intelligents. Curieuse et passionnée, je m’intéresse à l’IA, à la conception de solutions intelligentes et à tout ce qui touche au développement web. Mon ambition ? Créer de la valeur à travers la tech. 🌱
+**Intelligent Systems & Software Engineering Student**
 
+## About Me
 
-<!--
-**salmaaz29/salmaaz29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Salma, a passionate student in **Intelligent Systems and Software Engineering**, driven by a strong curiosity for **Artificial Intelligence**, **smart solution design**, and **web development**. My goal is to leverage technology to create meaningful, high-impact value.
 
-Here are some ideas to get you started:
+🌱 Currently deepening my expertise in AI and intelligent systems.  
+💡 Always open to collaborating on innovative projects.  
+🎯 Aspiring to build tech that makes a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out — I'm always happy to exchange ideas or collaborate on exciting challenges.
