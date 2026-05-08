@@ -1,168 +1,154 @@
 <div align="center">
 
-<!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7c5d0,50:e8a0b0,100:d4748c&height=180&section=header&text=Azhich%20Salma&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Software%20Engineering%20Student&descAlignY=58&descSize=18"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B+I'm+Azhich+Salma;AI+%26+Software+Engineering+Student;Passionate+About+Intelligent+Systems;Building+Tech+That+Makes+an+Impact+%F0%9F%92%96" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=26&duration=3000&pause=1000&color=D4748C&center=true&vCenter=true&width=750&lines=Hi+There+%F0%9F%91%8B+Welcome+to+my+profile!;AI+%26+Software+Engineering+Student+%F0%9F%8C%B8;Passionate+About+Intelligent+Systems+%E2%9C%A8;Building+Tech+That+Makes+an+Impact+%F0%9F%92%96;Morocco+%F0%9F%87%B2%F0%9F%87%A6+%7C+Code+%7C+Coffee+%7C+Curiosity"/>
+</div>
 
-<br/>
+---
 
-<!-- Badges -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salmaaz29.salmaaz29&left_color=c9a0a8&right_color=e8b4bc&left_text=Visitors)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/salmaaz29?style=flat&color=e8b4bc&labelColor=c9a0a8&label=Followers)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/salmaaz29?style=flat&color=e8b4bc&labelColor=c9a0a8&label=Stars)
+# 💖 Azhich Salma
 
+<div align="center">
+
+### ✨ Intelligent Systems & Software Engineering Student ✨
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
 </div>
 
 ---
 
 ## 🌸 About Me
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" style="border-radius: 16px; margin-left: 20px;"/>
-
 ```javascript
 const salma = {
-  pronouns  : "She / Her 💕",
-  location  : "Morocco 🇲🇦",
-  education : "Intelligent Systems & Software Engineering",
+    pronouns: "She/Her 💕",
+    location: "Morocco 🇲🇦",
+    education: "Intelligent Systems & Software Engineering",
 
-  passions  : [
-    "Artificial Intelligence 🤖",
-    "Web Development 🌐",
-    "Smart Solution Design 💡",
-    "Software Engineering ⚡"
-  ],
+    passions: [
+        "Artificial Intelligence 🤖",
+        "Web Development 🌐",
+        "Smart Solution Design 💡",
+        "Software Engineering ⚡"
+    ],
 
-  currentlyLearning : [
-    "Deep Learning 🧠",
-    "Cloud Computing ☁️",
-    "System Design 📐",
-    "AI-powered Applications 🚀"
-  ],
+    currentlyLearning: [
+        "Cloud Computing",
+        "System Design",
+        "AI-powered Applications"
+    ],
 
-  philosophy : "Building technology that creates meaningful impact 💖",
-  funFact    : "I turn coffee ☕ into code 💻 — daily."
+    lifePhilosophy: "Building technology that creates meaningful impact 💖",
+
+    funFact: "I turn coffee ☕ into code 💻"
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack
+# 💕 Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+## 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,php,js,python,c&theme=light" />
+<img src="https://skillicons.dev/icons?i=cpp,java,php,js,python,c" />
 </p>
 
-### 🌐 Frontend Development
+## 🌐 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
 </p>
 
-### ⚙️ Backend & Databases
+## ⚙️ Backend & Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,symfony&theme=light" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,symfony" />
 </p>
 
-### 🤖 AI & DevOps Tools
+## 🤖 AI & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,debian,docker&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,debian,docker" />
 </p>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🌷 Current Focus
 
 ```python
 class CurrentGoals:
     def __init__(self):
         self.learning = [
-            "Advanced AI & Intelligent Systems  🧠",
-            "Cloud Architecture                 ☁️",
-            "Software Design Patterns           📐",
-            "Scalable Web Applications          🌐",
-            "Machine Learning Models            🤖"
+            "Advanced AI & Intelligent Systems",
+            "Cloud Architecture ☁️",
+            "Software Design Patterns",
+            "Scalable Web Applications",
+            "Machine Learning Models 🤖"
         ]
-        self.building = "AI-powered solutions that solve real problems"
-        self.open_to  = ["Collaborations", "Internships", "Open Source"]
 
-    def next_milestone(self) -> str:
+    def next_milestone(self):
         return "Building impactful AI-powered solutions 💖"
-
-    def __repr__(self) -> str:
-        return "Always learning, always building 🌸"
 ```
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=salmaaz29&show_icons=true&hide_border=true&bg_color=fff5f7&title_color=c2637a&icon_color=e8a0b0&text_color=7a4a55&ring_color=e8b4bc"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaaz29&layout=compact&hide_border=true&bg_color=fff5f7&title_color=c2637a&text_color=7a4a55"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=salmaaz29&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4"/>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salmaaz29&hide_border=true&background=FFF5F7&ring=D4748C&fire=E8A0B0&currStreakLabel=C2637A&sideLabels=C2637A&dates=A07080&currStreakNum=C2637A&sideNums=C2637A"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salmaaz29&theme=radical&hide_border=true&background=0D1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=salmaaz29&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest"/>
+<img src="https://github-profile-trophy.vercel.app/?username=salmaaz29&theme=radical&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmaaz29&bg_color=fff5f7&color=c2637a&line=e8a0b0&point=d4748c&hide_border=true&area=true&area_color=fce4ec"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmaaz29&theme=github-compact&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&hide_border=true"/>
 
 </div>
 
 ---
 
-## 💌 Let's Connect
+# 💌 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/salma-azhich-372438320/">
-  <img src="https://img.shields.io/badge/LinkedIn-Salma%20Azhich-E8B4BC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C2637A"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:azhichsalma29@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-azhichsalma29-E8B4BC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C2637A"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/salmaaz29">
-  <img src="https://img.shields.io/badge/GitHub-salmaaz29-E8B4BC?style=for-the-badge&logo=github&logoColor=white&labelColor=C2637A"/>
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="mailto:salmaazhich29@gmail.com">
+<img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-> ### 🌸 *"Turning ideas into intelligent solutions, one line of code at a time."* 🌸
+</div>
 
-<br/>
+---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7c5d0,50:e8a0b0,100:d4748c&height=130&section=footer&animation=fadeIn"/>
+<div align="center">
+
+### 🌸 “Turning ideas into intelligent solutions, one line of code at a time.” 🌸
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
 </div>
