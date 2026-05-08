@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Azhich%20Salma&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Software%20Engineering%20Student&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7c5d0,50:e8a0b0,100:d4748c&height=180&section=header&text=Azhich%20Salma&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Software%20Engineering%20Student&descAlignY=58&descSize=18"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=26&duration=3000&pause=1000&color=D4748C&center=true&vCenter=true&width=750&lines=Hi+There+%F0%9F%91%8B+Welcome+to+my+profile!;AI+%26+Software+Engineering+Student+%F0%9F%8C%B8;Passionate+About+Intelligent+Systems+%E2%9C%A8;Building+Tech+That+Makes+an+Impact+%F0%9F%92%96;Morocco+%F0%9F%87%B2%F0%9F%87%A6+%7C+Code+%7C+Coffee+%7C+Curiosity"/>
@@ -163,6 +163,6 @@ class CurrentGoals:
 <br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7c5d0,50:e8a0b0,100:d4748c&height=130&section=footer&animation=fadeIn"/>
 
 </div>
