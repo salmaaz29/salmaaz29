@@ -33,7 +33,6 @@ const salma = {
     ],
 
     currentlyLearning: [
-        "Deep Learning",
         "Cloud Computing",
         "System Design",
         "AI-powered Applications"
