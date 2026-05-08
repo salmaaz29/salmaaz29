@@ -12,8 +12,7 @@
 
 ### ✨ Intelligent Systems & Software Engineering Student ✨
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U3a3Z5YmFwa2NqNjJ4MmxjN2M0N2VjcGQ0a2JlZWh0c3Q0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
-
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
 </div>
 
 ---
