@@ -75,46 +75,6 @@ const salma = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎯 Real-Time Product Recommendation System *(Big Data)*
-> **Stack:** Apache Kafka · Spark MLlib · Apache Airflow · Docker · REST API
-
-- 📥 Real-time ingestion pipeline with **Kafka** (producer/consumer) — Amazon Fine Food Reviews (~500K records)
-- 🤝 Collaborative filtering recommendation engine using **ALS** (pyspark.ml.recommendation.ALS)
-- 🧹 Data cleaning, User-Item matrix construction — trained on 80%, validated on 10%, evaluated with **RMSE**
-- 🔄 Automated pipeline orchestration (ingest → train → recommend) via **Apache Airflow** DAGs
-- 🌐 Top-N recommendations exposed via **REST API** + interactive dashboard, all containerized with **Docker**
-
----
-
-### ☁️ Cloud Infrastructure – RENTOPIA *(Blockchain Rental Platform)*
-> **Stack:** Terraform · AWS (VPC, RDS, S3, CloudFront) · Spring Boot · IAM
-
-- Infrastructure as Code with **Terraform** — full Multi-AZ secure network architecture
-- Microservices development with **Spring Boot**
-- IAM least privilege, Security Groups, VPC Endpoints; cost optimization via **CloudWatch**
-
----
-
-### 🧠 ML Pipeline – Smart eCommerce Intelligence
-> **Stack:** Python · Scrapy · Selenium · Kubeflow · Docker · Kubernetes · Streamlit
-
-- A2A agents for distributed scraping; ML pipelines (Random Forest, XGBoost, KMeans, association rules)
-- Interactive BI dashboard with **Streamlit/Plotly**; LLM integration for data enrichment
-- CI/CD with **GitHub Actions**; rigorous model evaluation (F1, silhouette score, lift)
-
----
-
-### 🔒 Web Application Security
-> **Stack:** Kali Linux · Burp Suite · OWASP ZAP · hping3
-
-- Configured vulnerable environments (DVWA, bWAPP, WebGoat, SQLi Labs)
-- Exploited & documented 28 critical vulnerabilities (SQLi, XSS, CSRF, SSRF, File Inclusion)
-- Wrote a full security audit report with implemented fixes
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
