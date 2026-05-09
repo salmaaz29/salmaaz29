@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,C084FC&height=200&section=header&text=Azhich%20Salma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Software%20Engineering%20Student&descAlignY=58&descColor=ffe0f0&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Intelligent+Systems+%26+Software+Engineering+%F0%9F%8E%93;Big+Data+%7C+Machine+Learning+%7C+Cloud+%E2%98%81%EF%B8%8F;Building+Tech+That+Makes+an+Impact+%F0%9F%92%96;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
 </div>
 
 ---
